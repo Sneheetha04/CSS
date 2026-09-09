@@ -1,0 +1,24 @@
+p{
+   background-color: hotpink; 
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    background-color: chartreuse;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+*{
+    background-color: darkviolet;
+}
+h1 {
+background-color: deepskyblue;
+}
+.heading{
+    background-color: coral;
+}
+.info{
+    background-color: gold;
+}
+#a{
+    background-color: sienna;
+}
